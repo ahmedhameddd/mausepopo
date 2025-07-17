@@ -1,0 +1,3 @@
+function gruss() {
+  alert("ILY");
+}
